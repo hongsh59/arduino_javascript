@@ -1,0 +1,25 @@
+{
+  "name": "Hardware-Hacking-with-JavaScript",
+  "description": "Smashing Magazine - Hardware Hacking with JavaScript",
+  "version": "0.0.1",
+  "homepage": "http://www.james-miller.co.uk/",
+  "keywords": [
+    "arduino",
+    "tutorial",
+    "hardware"
+  ],
+  "author": {
+    "name": "James Miller & Mate Marschalko"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jimhunty/Hardware-Hacking-with-JavaScript.git"
+  },
+  "bugs": "http://github.com/jimhunty/Hardware-Hacking-with-JavaScript.git/issues",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "johnny-five": "^0.9.7",
+    "socket.io": "^1.3.7"
+  }
+}
